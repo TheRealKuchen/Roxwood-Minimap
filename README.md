@@ -2,7 +2,8 @@ Extended Minimap for the Roxwood mapping project. Will be updated as the map exp
 
 Simply add the script to your server and make it autostart
 
-> DLK HD Atlas Map (no postal) ![roxwood](https://github.com/Manliketjb/ExtraMapTiles/assets/82594996/122b98fe-0f9a-44af-8190-5bf27e886b68)
+> DLK HD Atlas Map (no postal) ![grafik](https://github.com/user-attachments/assets/050a7040-1c95-43c2-96e1-a6a175af68c7)
+
 
 
 ## Edited for [Roxwood](https://ambitioneers.tebex.io/)
